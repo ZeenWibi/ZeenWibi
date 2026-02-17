@@ -1,6 +1,6 @@
 # 💫 About Me:
-I am a High School Student who is currently studying computer programming  
-
+Hi!👋 My name is Wibi a High School Student who is currently studying computer programming  
+And have interest in Computer Science Career
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.zeenwibi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zenwibi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@zeenwibi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wibitri6@gmail.com) 
